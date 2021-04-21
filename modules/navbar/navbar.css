@@ -1,0 +1,50 @@
+#Navbar{
+    background-color: rgb(32, 32, 32);
+}
+#navheading{
+    color: whitesmoke;
+}
+#navheading2{
+    margin-bottom: 8px;
+    color: orangered;
+}
+a{
+    margin: 5px;
+    font-size:15px;
+    color: rgb(173, 170, 170);
+}
+a:hover{
+    color: red;
+}
+input{
+    align-self: left;
+    background-color: whitesmoke;
+}
+.options{
+    margin-top: 15px;
+    font-weight: 800;
+}
+#sear{
+    margin-left: 0px;
+    border-width: 10px; 
+    
+}
+#download{
+   padding-right: 50px;
+    margin-top: 10px;
+    padding: 12px;
+    background-color: rgb(90, 86, 86);
+    color: blanchedalmond;
+
+}
+#bt{
+   padding-left: 0px;
+   border-radius: 10px;
+}
+#bg{
+    margin-top: 10px;
+    background-color: rgba(71, 73, 77, 0.884);
+    color: white;
+    padding-left: 5px;
+    border-radius: 10px;
+}
